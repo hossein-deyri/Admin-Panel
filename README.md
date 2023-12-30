@@ -14,7 +14,7 @@
 
 - Created - 2023-12-02
 
-- Technologies Used - TailWind, React, Formik, MUI 
+- Technologies Used - TailWind, React, Formik, MUI ,Recharts
 
 - Role - Frontend
 
